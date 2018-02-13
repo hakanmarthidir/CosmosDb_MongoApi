@@ -9,7 +9,7 @@ using System.Diagnostics;
 namespace CosmosDbMongoApi
 {
     [TestClass]
-    public class MongoReopsitoryTests
+    public class MongoRepositoryTests
     {
         MongoGenericRepository<Student> _repository = new MongoGenericRepository<Student>(new MongoContext());
 

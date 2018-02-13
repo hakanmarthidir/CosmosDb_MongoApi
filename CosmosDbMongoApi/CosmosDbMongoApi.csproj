@@ -74,7 +74,7 @@
     <Compile Include="InfrastructureLayer\Context\MongoContext.cs" />
     <Compile Include="InfrastructureLayer\Repositories\IGenericRepository.cs" />
     <Compile Include="DomainLayer\Student\Student.cs" />
-    <Compile Include="MongoReopsitoryTests.cs" />
+    <Compile Include="MongoRepositoryTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="InfrastructureLayer\Repositories\MongoGenericRepository.cs" />
     <Compile Include="SharedKernel\BaseClasses\Entity.cs" />
